@@ -1,0 +1,23 @@
+- Password config encoding 
+  flaw - user can change the config file
+    
+
+- Compile and categorize all commands (commands read from key in config file)
+ -> 1 button, 1 command, 1 response
+
+- UI adjustments
+ -> split monitor, displaying different output for frontend command and backend dataline
+ -> COM port selection
+ -> scrollbar widget & pause/resume button
+
+- minor adjustment on situation handling
+
+- pause the receiving output
+
+- not relying on existence of config file
+  config file
+   -> serial configuration settings
+   -> password
+   -> list of commands
+
+change password -> configuration(config)

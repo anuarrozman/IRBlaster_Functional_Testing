@@ -1,0 +1,9 @@
+- Compile & categorize all commands
+- create config file for all commands, read from config file
+- (Serial Configuration) Search for config file, create one if does not found
+- Split monitor for front end
+- password encode
+
+UI adjustment
+- port selection move to backend
+- scrollbar added for all monitor
